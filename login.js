@@ -16,3 +16,10 @@ const user = [
 ]
 
 const mobil = [ "toyota", "honda", "mitsubishi" ];
+ let signin = {
+     id : "ID12345",
+     Name : "Supermain",
+     Email : "supermain@yahoo.com",
+     Gender : "Male",
+     password: "saya123"
+ }
