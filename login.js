@@ -4,3 +4,13 @@ const login = {
     email: "Spiderman@gmail.com",
     Gender: "Male"
   };
+const user = [
+    {
+        username: "yogie",
+        password: "yogie123"
+    },
+    {
+        username: "hanif",
+        password: "hanif123"
+    }
+]
